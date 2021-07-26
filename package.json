@@ -13,7 +13,8 @@
     "@foliojs-fork/pdfkit": "^0.12.1",
     "iconv-lite": "^0.6.3",
     "svg-to-pdfkit": "^0.1.8",
-    "xmldoc": "^1.1.2"
+    "xmldoc": "^1.1.2",
+    "static-eval": "^2.1.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.14.5",
