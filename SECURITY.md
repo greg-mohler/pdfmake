@@ -2,15 +2,15 @@
 
 Thank you for helping <APP_NAME> stay secure. If you've identified a security vulnerability, please use the following form to submit your finding. We aim to reply within <X> days of receiving your finding. If a finding is accepted, we aim to publish a patch within <X> days. If it is declined, we will reply to let you know.
 
-## Reporting Guidelines (Required)
+## Reporting Guidelines
 
-Email <security_team@company.com> with the following information:
+Email <SECURITY_TEAM_EMAIL> with the following information:
 1. Name / affiliation
 2. Vulnerability description
 3. Steps to reproduce the issue
 4. Current public / third-party knowledge of this vulnerability
 
-## Supported Versions
+## Supported Versions (optional)
 
 At this time, only the following versions of <APP_NAME> are supported:
 
@@ -21,7 +21,7 @@ At this time, only the following versions of <APP_NAME> are supported:
 | 4.0.x   | :white_check_mark: |
 | < 4.0   | :x:                |
 
-## Encryption
+## Encryption (optional)
 
 The following PGP key can be used to encrypt your message's contents:
 
