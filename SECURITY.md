@@ -1,22 +1,18 @@
 # Security Policy
 
-## (Required) Reporting Guidelines
+Thank you for helping <APP_NAME> stay secure. If you've identified a security vulnerability, please use the following form to submit your finding. We aim to reply within <X> days of receiving your finding. If a finding is accepted, we aim to publish a patch within <X> days. If it is declined, we will reply to let you know.
+
+## Reporting Guidelines (Required)
 
 Email <security_team@company.com> with the following information:
-1. Vulnerability description
-2. 
-
-## (Required) Reporting Guidelines
-
-i.	Name / Affiliation: 
-ii.	Vulnerability description:
-iii.	Steps to reproduce any exploit if the issue is complex.
-iv.	Whether this vulnerability public or known to third parties. If it is, please provide details.
+1. Name / affiliation
+2. Vulnerability description
+3. Steps to reproduce the issue
+4. Current public / third-party knowledge of this vulnerability
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+At this time, only the following versions of <APP_NAME> are supported:
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -25,10 +21,8 @@ currently being supported with security updates.
 | 4.0.x   | :white_check_mark: |
 | < 4.0   | :x:                |
 
-## Reporting a Vulnerability
+## Encryption
 
-Use this section to tell people how to report a vulnerability.
+The following PGP key can be used to encrypt your message's contents:
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+<PGP_PUBLIC_KEY>
